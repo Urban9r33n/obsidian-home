@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"8df209d71e4bd14e","type":"file","file":"Home/Resources/CFD Project/Part 1. System Overview/1.2 Key Features.md","x":480,"y":-66,"width":720,"height":1066},
+		{"id":"e4b7d53bc63eca5e","type":"file","file":"Home/Resources/CFD Project/Part 1. System Overview/1.3 Technology Stack Selection Rationale.md","x":1380,"y":-66,"width":720,"height":1066},
+		{"id":"b653a7f3c598fb81","type":"file","file":"Home/Resources/CFD Project/Part 1. System Overview/1.1 Purpose of the System.md","x":-420,"y":-66,"width":720,"height":1066},
+		{"id":"4ac2ad246a106ded","type":"file","file":"Home/Resources/CFD Project/Part 1. System Overview/1.4 Overall System Architecture.md","x":2280,"y":-66,"width":720,"height":1066},
+		{"id":"3b0035a1b3be0ce1","type":"file","file":"Home/Resources/CFD Project/Part 1. System Overview/1.5 Key Component Descriptions.md","x":3200,"y":-66,"width":720,"height":1066},
+		{"id":"5b3dde6a591d99cf","x":1380,"y":-720,"width":720,"height":240,"type":"file","file":"Home/Resources/CFD Project/Part 1. System Overview/Part 1. System Overview.md"}
+	],
+	"edges":[
+		{"id":"43e79bd93c3ecbed","fromNode":"5b3dde6a591d99cf","fromSide":"bottom","toNode":"b653a7f3c598fb81","toSide":"top"},
+		{"id":"2f8904871224e2bd","fromNode":"5b3dde6a591d99cf","fromSide":"bottom","toNode":"8df209d71e4bd14e","toSide":"top"},
+		{"id":"f5b8f1222956ed5c","fromNode":"5b3dde6a591d99cf","fromSide":"bottom","toNode":"e4b7d53bc63eca5e","toSide":"top"},
+		{"id":"755af7bfe4486cc1","fromNode":"5b3dde6a591d99cf","fromSide":"bottom","toNode":"4ac2ad246a106ded","toSide":"top"},
+		{"id":"3c2fd5b107fb551b","fromNode":"5b3dde6a591d99cf","fromSide":"bottom","toNode":"3b0035a1b3be0ce1","toSide":"top"}
+	]
+}

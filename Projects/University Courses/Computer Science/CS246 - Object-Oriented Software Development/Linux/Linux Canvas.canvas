@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"45fc6b540b457eef","type":"file","file":"Home/Projects/University Courses/Computer Science/CS246 - Object-Oriented Software Development/Linux/Linux Files - Input,Output.md","x":-1880,"y":240,"width":1000,"height":2040},
+		{"id":"c8b5b93218c6794f","type":"file","file":"Home/Projects/University Courses/Computer Science/CS246 - Object-Oriented Software Development/Linux/Linux Pipes.md","x":-680,"y":240,"width":1000,"height":2040},
+		{"id":"33664ece3553ef8d","type":"file","file":"Home/Projects/University Courses/Computer Science/CS246 - Object-Oriented Software Development/Linux/Pattern-Matching in Text Files.md","x":440,"y":240,"width":1000,"height":2040},
+		{"id":"ecd44a46adfb59dc","type":"file","file":"Home/Projects/University Courses/Computer Science/CS246 - Object-Oriented Software Development/Linux/Permissions.md","x":1560,"y":240,"width":1000,"height":2040},
+		{"id":"22562f551dba589a","type":"file","file":"Home/Projects/University Courses/Computer Science/CS246 - Object-Oriented Software Development/Linux/Linux.md","x":130,"y":-1680,"width":500,"height":400},
+		{"id":"09e9717b9e319ddb","type":"file","file":"Home/Projects/University Courses/Computer Science/CS246 - Object-Oriented Software Development/Linux/Linux Commands.md","x":-120,"y":-960,"width":1000,"height":760},
+		{"id":"460d29ccb7a1d569","type":"file","file":"Home/Projects/University Courses/Computer Science/CS246 - Object-Oriented Software Development/Linux/Shell Scripts.md","x":-110,"y":2720,"width":990,"height":5200}
+	],
+	"edges":[
+		{"id":"a2715e159f038930","fromNode":"09e9717b9e319ddb","fromSide":"bottom","toNode":"c8b5b93218c6794f","toSide":"top"},
+		{"id":"df666beac7a268d0","fromNode":"45fc6b540b457eef","fromSide":"top","toNode":"09e9717b9e319ddb","toSide":"bottom","fromEnd":"arrow"},
+		{"id":"62cf8d9c18465329","fromNode":"09e9717b9e319ddb","fromSide":"bottom","toNode":"33664ece3553ef8d","toSide":"top","fromEnd":"arrow"},
+		{"id":"59add41442bccc52","fromNode":"09e9717b9e319ddb","fromSide":"bottom","toNode":"ecd44a46adfb59dc","toSide":"top"},
+		{"id":"991108bd0dc8ba6e","fromNode":"45fc6b540b457eef","fromSide":"bottom","toNode":"460d29ccb7a1d569","toSide":"top"},
+		{"id":"e1e3aecceef10798","fromNode":"c8b5b93218c6794f","fromSide":"bottom","toNode":"460d29ccb7a1d569","toSide":"top"},
+		{"id":"ab5b8b3110a1e6ec","fromNode":"33664ece3553ef8d","fromSide":"bottom","toNode":"460d29ccb7a1d569","toSide":"top"},
+		{"id":"44b74764095ebb77","fromNode":"ecd44a46adfb59dc","fromSide":"bottom","toNode":"460d29ccb7a1d569","toSide":"top"},
+		{"id":"c750343feaeb5518","fromNode":"22562f551dba589a","fromSide":"bottom","toNode":"09e9717b9e319ddb","toSide":"top"}
+	]
+}
